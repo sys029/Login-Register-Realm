@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginRealm</string>
+    <string name="login_page">LOGIN PAGE</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="register">Register</string>
+</resources>
